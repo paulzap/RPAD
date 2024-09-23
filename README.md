@@ -101,6 +101,10 @@ This repository provides a method for detecting anomalous measurements in spacec
 ### Output Data
 - The output will be saved in the specified `output_dir`, containing CSV files that document the detected anomalies for each input dataset. Each output file will include a column `is_abnormal`, where 1 denotes anomalous measurements and 0 denotes normal ones.
 
+## Test Data
+
+Additionally, this repository includes a file named `DatasetTest.zip`, which contains test CSV files with labeled anomalous measurements. These files can be used to evaluate the performance of the anomaly detection methods and facilitate the tuning of threshold values. The labeled data will help in understanding how well the algorithm identifies anomalies within a controlled dataset.
+
 ## Usage Instructions
 
 1. **Installation**:
