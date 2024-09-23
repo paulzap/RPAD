@@ -1,8 +1,8 @@
-# Anomaly Detection in Spacecraft Trajectory Data
+# Anomaly Detection in Tracking Satellite Data 
 
 ## Overview
 
-This repository provides a method for detecting anomalous measurements in spacecraft trajectory data using recursive partitioning of time series observations. The method leverages various data processing techniques to effectively identify and manage anomalous signals, making it suitable for handling noisy data streams common in space missions.
+This repository provides a method for detecting anomalous measurements in tracking satellite data using recursive partitioning of time series observations. The method leverages various data processing techniques to effectively identify and manage anomalous signals, making it suitable for handling noisy data streams common in space missions.
 
 ## Features
 
